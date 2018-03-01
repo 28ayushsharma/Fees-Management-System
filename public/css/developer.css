@@ -1,0 +1,40 @@
+ul#student_list>li>a:hover{
+	background-color: transparent;
+	cursor: default;
+}
+ul#student_list>li>a>span{
+	cursor: pointer;
+}
+/*For Loader Start*/
+#overlay {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+	height: 100%;
+	left: 0;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+#overlay img {
+	position: relative;
+	top: 50%;
+	background: #fff;
+	padding: 15px;
+	border-radius: 28px;
+}
+/*
+#overlay {
+    background: rgba(0, 0, 0, 0.8) url("/img/loader.gif") no-repeat scroll center center !important;
+    background-size: 62px auto !important;
+}*/
+.loader{
+    background:url("/img/loader.gif") no-repeat scroll center center !important;
+    background-size: 45px auto !important; height: 100%; width: 100%;
+}
+
+.hide{
+    display: none;
+}
+/*Loader css End*/
