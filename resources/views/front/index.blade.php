@@ -305,7 +305,7 @@
 						</div>
 						<div class="col-xs-8 featured_services_left_gridr">
 							<h4>Highly Qualified Staff</h4>
-							<p>Highly Qualified teachers and well trained staff.</p>
+							<p>Maecenas bibendum nisi purus, in ullamcorper nisl aliquam id.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
