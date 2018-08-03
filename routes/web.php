@@ -10,7 +10,30 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/', 'HomeController@index');
+Route::get('/', 'SpeedRadar@index');
+Route::post('/check-speed', 'SpeedRadar@averageSpeed')->name('check_speed');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /**================  Admin routing START ==========================**/

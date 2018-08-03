@@ -293,7 +293,7 @@
 						</div>
 						<div class="col-xs-8 featured_services_left_gridr">
 							<h4>Camera Vigilance</h4>
-							<p>Maecenas bibendum nisi purus, in ullamcorper nisl aliquam id.</p>
+							<p>Camera in every class rooms.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
